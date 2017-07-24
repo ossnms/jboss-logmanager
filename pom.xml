@@ -47,6 +47,9 @@
     <properties>
         <maven.compiler.source>1.7</maven.compiler.source>
         <maven.compiler.target>1.7</maven.compiler.target>
+
+        <version.buildnumber.plugin>1.4</version.buildnumber.plugin>
+
     </properties>
 
     <dependencies>
