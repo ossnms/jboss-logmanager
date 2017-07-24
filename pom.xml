@@ -28,7 +28,7 @@
     <groupId>org.jboss.logmanager</groupId>
     <artifactId>jboss-logmanager</artifactId>
     <packaging>jar</packaging>
-    <version>2.0.7.Final-ossnms-001</version>
+    <version>2.0.7.Final-ossnms-002-SNAPSHOT</version>
 
     <parent>
         <groupId>org.jboss</groupId>
